@@ -26,3 +26,13 @@
 *.exe
 *.out
 *.app
+
+# VS
+*.tlog
+*.sln
+*.idb
+*.vcxproj
+*.lastbuildstate
+*.filters
+#SQL Server
+*.sdf
